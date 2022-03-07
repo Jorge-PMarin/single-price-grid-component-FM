@@ -68,6 +68,7 @@ body {
 
 .price__list {
   line-height: 2.2rem;
+  list-style: none;
 }
 
 .price__description.top {
